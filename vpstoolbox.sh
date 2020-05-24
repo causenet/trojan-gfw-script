@@ -1,7 +1,7 @@
 #!/bin/bash
 #MIT License
 #
-#Copyright (c) 2019-2020 johnrosen1
+#Copyright (c) 2019-2020 johnrosen1/Causenet
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
 
 #Run me with:
 
-#sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/johnrosen1/trojan-gfw-script/master/trojangui.sh)"
+#sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/causenent/trojan-gfw-script/master/trojangui.sh)"
 
 clear
 
