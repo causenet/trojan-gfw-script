@@ -23,7 +23,7 @@
 
 #Run me with:
 
-#sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/causenent/trojan-gfw-script/master/trojangui.sh)"
+#sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/causenent/trojan-gfw-script/master/vpstoolbox.sh)"
 
 clear
 
