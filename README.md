@@ -3,6 +3,8 @@
 # [中文文檔](https://github.com/causenet/trojan-gfw-script/blob/master/README_CN.md)
 ## This script will help you set up many kind of useful tools on your VPS including website proxy download monitor and more.
 
+## This script is for small vps with less than 3G space to sustain the newest script. 
+
 ### How to use
 For Debian/Ubuntu
 ```
